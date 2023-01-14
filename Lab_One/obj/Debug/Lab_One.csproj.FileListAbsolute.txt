@@ -1,0 +1,16 @@
+C:\Users\Искандерка\RiderProjects\Lab_One\bin\Debug\Lab_One.exe.config
+C:\Users\Искандерка\RiderProjects\Lab_One\bin\Debug\Lab_One.exe
+C:\Users\Искандерка\RiderProjects\Lab_One\bin\Debug\Lab_One.pdb
+C:\Users\Искандерка\RiderProjects\Lab_One\obj\Debug\Lab_One.csproj.AssemblyReference.cache
+C:\Users\Искандерка\RiderProjects\Lab_One\obj\Debug\Lab_One.csproj.SuggestedBindingRedirects.cache
+C:\Users\Искандерка\RiderProjects\Lab_One\obj\Debug\Lab_One.Properties.Resources.resources
+C:\Users\Искандерка\RiderProjects\Lab_One\obj\Debug\Lab_One.csproj.GenerateResource.cache
+C:\Users\Искандерка\RiderProjects\Lab_One\obj\Debug\Lab_One.csproj.CoreCompileInputs.cache
+C:\Users\Искандерка\RiderProjects\Lab_One\obj\Debug\Lab_One.exe
+C:\Users\Искандерка\RiderProjects\Lab_One\obj\Debug\Lab_One.pdb
+C:\Users\Искандерка\RiderProjects\Lab_One\obj\Debug\Lab_One.Form1.resources
+C:\Users\Искандерка\RiderProjects\Lab_One\obj\Debug\Lab_One.ThreeNums.resources
+C:\Users\Искандерка\RiderProjects\Lab_One\obj\Debug\Lab_One.NumFour.resources
+C:\Users\Искандерка\RiderProjects\Lab_One\obj\Debug\Lab_One.NumThree.resources
+C:\Users\Искандерка\RiderProjects\Lab_One\obj\Debug\Lab_One.Matrix_18x24_.resources
+C:\Users\Искандерка\RiderProjects\Lab_One\obj\Debug\Lab_One.MatrixDyn.resources
